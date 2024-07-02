@@ -2,6 +2,12 @@
  ### my name is Sumaiya Urmi
 ##### a web developer
 ![a web developer](https://i.postimg.cc/HsNWf98t/github-header-image.png)
+
+<br/>
+<br/>
+## About Me
+ I'm a skilled web developer specializing in front-end technologies like HTML, CSS, JavaScript, React With a keen eye for design and a strong technical background, I strive to create web applications that are not only functional but also beautiful. I love experimenting with new tools and frameworks to enhance my development workflow and deliver high-quality projects.
+
 <br/>
 <br/>
 <br/>
