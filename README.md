@@ -5,7 +5,8 @@
 
 <br/>
 <br/>
-## About Me
+## 👩‍🎓 About Me
+
  I'm a skilled web developer specializing in front-end technologies like HTML, CSS, JavaScript, React With a keen eye for design and a strong technical background, I strive to create web applications that are not only functional but also beautiful. I love experimenting with new tools and frameworks to enhance my development workflow and deliver high-quality projects.
 
 <br/>
