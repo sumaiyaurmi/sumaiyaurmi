@@ -1,7 +1,7 @@
-## Hi there 👋,
- ### my name is Sumaiya Urmi
+## Hello There! 👋,
+ ### Myself Sumaiya Urmi
 ##### a web developer
-![a web developer](https://i.postimg.cc/HsNWf98t/github-header-image.png)
+![a web developer](https://i.postimg.cc/mkRthBwB/1.png)
 
 <br/>
 <br/>
