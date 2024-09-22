@@ -27,6 +27,7 @@
 
 # 📊 📈 Current Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumaiyaurmi&theme=blue_navy&hide_border=false)
+<br/>
            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyaurmi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
@@ -34,9 +35,6 @@
 <br/>
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumaiyaurmi&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
 
 
